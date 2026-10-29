@@ -11,7 +11,7 @@ Proposes concrete solution use cases you could build.
 Suggests one clear next step to get started.
 
 # The Framework
-Every problem is viewed through six kinds of geographic questions and four modes of analysis (the geographic lens):
+Every problem is viewed through four modes of analysis and six types of geographic contexts (the geographic lens):
 (Review the following article to learn about the geospatial lens matrix: https://www.linkedin.com/pulse/geospatial-solution-canvas-simple-tool-translating-business-lewin)
 
 Six geographic questions:
