@@ -62,6 +62,6 @@ Responses are short by design. Ask for depth whenever you want it.
 For a large or many-themed document, it will ask whether you want one overall analysis or a theme-by-theme breakdown.
 
 # Installation
-Download the geospatial-lens.zip file. Contained in the zipe file is a SKILL.md describing the agent instructions, an asset folder with the geosaptial lens matrix (Excel file), and a resources folder containing the .md version of the geospatial lens matrix which the SKILL.md instructions refer to.
+Download the geospatial-lens.zip file. Contained in the zie file is a SKILL.md describing the agent instructions, an asset folder with the geosaptial lens matrix (Excel file), and a resources folder containing the .md version of the geospatial lens matrix which the SKILL.md instructions refer to.
 Load the .zip file into your AI agent platform as a skill and use. 
 Enjoy!
