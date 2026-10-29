@@ -20,6 +20,7 @@ Describe — what is it now?
 Diagnose — why is it that way?
 Predict — what's coming?
 Prescribe — what should we do?
+
 Six geographic questions:
 
 Location — where are things?
