@@ -45,12 +45,12 @@ Solution Use Cases — three to six specific solutions, including at least one a
 Next Step — one concrete first move, not the whole project
 
 # Modern Solution Patterns
-Beyond classic dashboards and maps, it will consider agent-mediated solutions when they add value:
+Beyond classic GIS solution patterns (maps, dashboards etc.), the lens will consider agent-mediated solutions. These include:
 
-Conversational spatial agents that run analysis on demand from natural-language questions
-Background monitoring agents that watch spatial data and alert the right people with context
-Embedded spatial reasoning inside tools you already use (Teams, Outlook, CRMs, service desks)
-Hybrid solutions where a dashboard serves power users and an agent serves everyone else
+Conversational spatial agents that run analysis on demand from natural-language questions.
+Background monitoring agents that watch spatial data and alert the right people with context.
+Embedded spatial reasoning inside tools you already use.
+Hybrid solutions where a dashboard serves power users and an agent serves everyone else.
 
 # Modifications
 To focus the agent on a specific type of result, just ask for it. For example, if you want the agent to focus on providing agentic AI use cases ask it to focus on AI agent use cases only.
