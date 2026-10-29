@@ -1,5 +1,5 @@
 # geospatial-lens
-An agent skill for uncovering GIS-related use cases in any business issue
+An AI agent skill for uncovering GIS-related use cases embedded in any business issue
 
 # Overview
 The Geospatial Lens is an AI SKILL.md that provides an AI agent with a framework and instruction set for uncovering geospatial use cases embedded in a business issue. You describe a situation, drop in a link or upload a document, and it translates everyday business questions into "where" questions you can act on. It then suggests a set of GIS use cases to answer the questions.
