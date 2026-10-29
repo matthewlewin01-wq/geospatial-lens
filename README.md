@@ -21,7 +21,7 @@ Diagnose — why is it that way?
 Predict — what's coming?
 Prescribe — what should we do?
 
-Six geographic questions:
+Six geographic contexts:
 
 Location — where are things?
 Scale — how big or what shape are they?
