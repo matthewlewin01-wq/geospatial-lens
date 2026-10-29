@@ -14,6 +14,12 @@ Suggests one clear next step to get started.
 Every problem is viewed through four modes of analysis and six types of geographic contexts (the geographic lens):
 For more information, review this article about the geospatial lens matrix: https://www.linkedin.com/pulse/geospatial-solution-canvas-simple-tool-translating-business-lewin
 
+Four modes of analysis:
+
+Describe — what is it now?
+Diagnose — why is it that way?
+Predict — what's coming?
+Prescribe — what should we do?
 Six geographic questions:
 
 Location — where are things?
@@ -23,12 +29,6 @@ Distribution — are things spread out or clumped together?
 Proximity — what's near what?
 Correlation — do conditions in one place relate to conditions somewhere else?
 
-Four modes of analysis:
-
-Describe — what is it now?
-Diagnose — why is it that way?
-Predict — what's coming?
-Prescribe — what should we do?
 Each question you get back carries a compact tag (for example, Distribution + Describe) so you learn the framework over time without it taking over the response.
 
 # How To Use It
