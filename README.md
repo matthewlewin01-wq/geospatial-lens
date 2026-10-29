@@ -39,7 +39,7 @@ Receive a structured response with the geography in your problem, key "where" qu
 Ask for more depth on any question or solution. Responses stay short by default.
 
 # What You Get Back
-Every response follows the same shape:
+Responses are structured as follows:
 Overview — one short paragraph on where place matters in your problem (or an honest note if it doesn't)
 Key Geospatial Questions — three to six plain-English "where" questions, each with a framework tag and a concrete way to answer it
 Solution Use Cases — three to six specific solutions, including at least one agent-mediated option when it genuinely adds value
