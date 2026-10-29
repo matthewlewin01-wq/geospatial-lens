@@ -45,7 +45,7 @@ Key Geospatial Questions — three to six plain-English "where" questions, each 
 Solution Use Cases — three to six specific solutions, including at least one agent-mediated option when it genuinely adds value
 Next Step — one concrete first move, not the whole project
 
-# Modern Solution Patterns
+# Solution Patterns
 Beyond classic GIS solution patterns (maps, dashboards etc.), the lens will consider agent-mediated solutions. These include:
 
 Conversational spatial agents that run analysis on demand from natural-language questions.
