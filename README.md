@@ -7,7 +7,7 @@ The Geospatial Lens is an AI SKILL.md that provides an AI agent with instruction
 # What It Does
 The Geospatial Lens analyzes the business issue you provide and develops a short list of plain-English "where" questions.
 Recommends the data, tools, and methods to answer each one.
-Proposes concrete solution use cases you could build.
+Proposes conceptual solution use cases to consider implementing.
 Suggests one clear next step to get started.
 
 # The Framework
@@ -35,14 +35,14 @@ Each question you get back carries a compact tag (for example, Distribution + De
 # How To Use It
 Describe a business problem, paste a link, or upload a document.
 Add context if you have it: your goal, the regions involved, what data you already hold, the type of use cases you want to focus on (e.g. AI agents)
-Receive a structured response with the geography in your problem, key "where" questions, solution use cases and a first step.
+Receive a structured response with the geography in your problem, key "where" questions, conceptual solution use cases and a first step.
 Ask for more depth on any question or solution. Responses stay short by default.
 
 # What You Get Back
 Responses are structured as follows:
 Overview — one short paragraph on where place matters in your problem (or an honest note if it doesn't)
 Key Geospatial Questions — three to six plain-English "where" questions, each with a framework tag and a concrete way to answer it
-Solution Use Cases — three to six specific use cases, including at least one agent-mediated option when it genuinely adds value
+Solution Use Cases — three to six specific conceptual use cases, including at least one agent-mediated option when it genuinely adds value
 Next Step — one concrete first move, not the whole project
 
 # Solution Patterns
