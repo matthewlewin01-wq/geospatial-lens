@@ -42,7 +42,7 @@ Ask for more depth on any question or solution. Responses stay short by default.
 Responses are structured as follows:
 Overview — one short paragraph on where place matters in your problem (or an honest note if it doesn't)
 Key Geospatial Questions — three to six plain-English "where" questions, each with a framework tag and a concrete way to answer it
-Solution Use Cases — three to six specific conceptual use cases, including at least one agent-mediated option when it genuinely adds value
+Solution Use Cases (Conceptual) — three to six specific conceptual use cases, including at least one agent-mediated option when it genuinely adds value
 Next Step — one concrete first move, not the whole project
 
 # Solution Patterns
