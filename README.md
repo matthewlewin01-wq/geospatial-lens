@@ -42,7 +42,7 @@ Ask for more depth on any question or solution. Responses stay short by default.
 Responses are structured as follows:
 Overview — one short paragraph on where place matters in your problem (or an honest note if it doesn't)
 Key Geospatial Questions — three to six plain-English "where" questions, each with a framework tag and a concrete way to answer it
-Solution Use Cases — three to six specific solutions, including at least one agent-mediated option when it genuinely adds value
+Solution Use Cases — three to six specific use cases, including at least one agent-mediated option when it genuinely adds value
 Next Step — one concrete first move, not the whole project
 
 # Solution Patterns
@@ -65,3 +65,11 @@ For a large or many-themed document, it will ask whether you want one overall an
 Download the geospatial-lens.zip file. Contained in the zip file is a SKILL.md describing the agent instructions, an asset folder with the geosaptial lens matrix (Excel file), and a resources folder containing the .md version of the geospatial lens matrix which the SKILL.md instructions refer to.
 Load the .zip file into your AI agent platform as a skill and use. 
 Enjoy!
+
+# Important Note on AI-Generated Content
+This software is licensed under the MIT License, users must note that the core functionality relies on artificial intelligence. 
+- **No Guarantee of Originality:** AI-generated use cases may accidentally mimic existing patented ideas, trademarks, or copyrighted strategies. 
+- **No Guarantee of Feasibility:** The AI may suggest concepts that are technically impossible, economically unviable, or unsafe to build.
+- Always perform independent legal, technical, and market due diligence before acting on any generated concept.
+
+
