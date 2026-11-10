@@ -72,4 +72,5 @@ This software is licensed under the MIT License, users must note that the core f
 - **No Guarantee of Feasibility:** The AI may suggest concepts that are technically impossible, economically unviable, or unsafe to build.
 - Always perform independent legal, technical, and market due diligence before acting on any generated concept.
 
-
+# Security Notice 
+This skill processes external user-provided links and documents. To protect against indirect prompt injection, ensure your AI agent is running in a sandboxed environment with strict tool and network restrictions.
